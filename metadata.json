@@ -1,0 +1,5 @@
+{
+  "name": "CRS & ICANS Assessor",
+  "description": "A web application to quickly assess Cytokine Release Syndrome (CRS) and Immune Effector Cell-Associated Neurotoxicity Syndrome (ICANS) grading based on ASTCT 2019 guidelines for patients undergoing Bispecific antibody treatment.",
+  "requestFramePermissions": []
+}
